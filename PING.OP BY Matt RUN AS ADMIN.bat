@@ -9,7 +9,7 @@ echo -------------------------------------------------[v0.1]--------------------
 echo.      	
 echo ############################################## 
 echo ####                                      #### 
-echo ####      Ping Grabber By (SeeUsGo)       #### 
+echo ####      Ping Grabber By (Matt)          #### 
 echo.####                                      #### 
 echo ####  [1] Type "1" For: Better, Ping OP   ####
 echo ####  [2] Type "2" For: Skype             ####
